@@ -1,0 +1,15 @@
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/bin/Debug/net7.0/LearningAboutThreads2
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/bin/Debug/net7.0/LearningAboutThreads2.deps.json
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/bin/Debug/net7.0/LearningAboutThreads2.runtimeconfig.json
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/bin/Debug/net7.0/LearningAboutThreads2.dll
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/bin/Debug/net7.0/LearningAboutThreads2.pdb
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/obj/Debug/net7.0/LearningAboutThreads2.csproj.AssemblyReference.cache
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/obj/Debug/net7.0/LearningAboutThreads2.GeneratedMSBuildEditorConfig.editorconfig
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/obj/Debug/net7.0/LearningAboutThreads2.AssemblyInfoInputs.cache
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/obj/Debug/net7.0/LearningAboutThreads2.AssemblyInfo.cs
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/obj/Debug/net7.0/LearningAboutThreads2.csproj.CoreCompileInputs.cache
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/obj/Debug/net7.0/LearningAboutThreads2.dll
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/obj/Debug/net7.0/refint/LearningAboutThreads2.dll
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/obj/Debug/net7.0/LearningAboutThreads2.pdb
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/obj/Debug/net7.0/LearningAboutThreads2.genruntimeconfig.cache
+/home/maciej/code/LearningAboutThreads2/LearningAboutThreads2/obj/Debug/net7.0/ref/LearningAboutThreads2.dll
